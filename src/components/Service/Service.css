@@ -1,0 +1,15 @@
+.service{
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    padding: 10px;
+    /* text-align: center; */
+    position: relative;
+}
+
+#buttonId{
+    position: absolute;
+    bottom: 10px;
+    width: 95%;
+    margin-top: 50px;
+}

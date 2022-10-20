@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "name":"Food photography",
+        "price":"250",
+        "description":"Food photography is an area of photography where food is photographed as the main subject for still images. A subset of commercial photography, the images are then used in product packaging, cookbooks, billboards, marketing materials, and more.",
+        "img":"https://blackwhite.pictures/media/t/0904/fruit-in-kitchen-2889.jpg"
+    },
+    {
+        "id":2,
+        "name":"Product photography",
+        "price":"350",
+        "description":"Product photography, or e-commerce photography as it's sometimes known, is basically what it sounds like: photos taken and used on websites and social media platforms to help drive sales of your product or service.",
+        "img":"https://enviragallery.com/wp-content/uploads/2020/06/4.jpg"
+    },
+    {
+        "id":3,
+        "name":"Documentary-style photography",
+        "price":"350",
+        "description":"Documentary photography is a style of photography that provides a straightforward and accurate representation of people, places, objects and events, and is often used in reportage. Nan Goldin. Greer and Robert on the bed, NYC (1982)",
+        "img":"https://i2-prod.walesonline.co.uk/whats-on/arts-culture-news/article11590969.ece/ALTERNATES/s615/JS94321254.jpg"
+    },
+    {
+        "id":4,
+        "name":"Portrait photography",
+        "price":"550",
+        "description":"Portrait photography is a very well-known and popular style of photography. This style of photography is all about trying to capture the personality, identity, soul, and emotions of a person by utilizing the background atmosphere, poses, and lighting",
+        "img":"https://shotkit.com/wp-content/uploads/2021/02/black_and-white_portraits_christopher_campbell.jpg"
+    },
+    {
+        "id":5,
+        "name":"Wedding Photography",
+        "price":"1000",
+        "description":"Wedding photography is a specialty in photography that is primarily focused on the photography of events and activities relating to weddings. It may include other types of portrait photography of the couple before the official wedding day, such as a pre-wedding engagement session",
+        "img":"https://www.yourperfectweddingphotographer.co.uk/wp-content/uploads/2018/12/Wedding-Photographer-Nottingham-31.jpg"
+    },
+    {
+        "id":6,
+        "name":"Wildlife photography",
+        "price":"900",
+        "description":"Wildlife photography is a genre of photography concerned with documenting various forms of wildlife in their natural habitat. As well as requiring photography skills, wildlife photographers may need field craft skills.",
+        "img":"https://www.nhm.ac.uk/resources/visit/wpy/2013/large/79.jpg"
+    }
+
+]
