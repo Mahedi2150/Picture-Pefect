@@ -14,6 +14,10 @@ const Header = () => {
     const [user] = useAuthState(auth)
     const handleSignout = () => {
         signOut(auth)
+        toast.success(`Log out !!! ${user?.displayName}`, {
+            theme: "dark",
+
+        });
     }
     if (user?.email) {
         toast.success(`Log in SuccessFul !!! ${user?.displayName}`, {
